@@ -3,7 +3,7 @@
 **Location:** Irvine, CA  
 **Email:** [jesuspicenoit7@gmail.com](mailto:jesuspicenoit7@gmail.com)  
 **Phone:** (714) 417-2612  
-**LinkedIn:** [www.linkedin.com/in/jesuspicenoit](#)  
+**LinkedIn:** www.linkedin.com/in/jesuspicenoit  
 
 ---
 
