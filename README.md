@@ -21,9 +21,9 @@ Eager young IT professional with a strong background in desktop support, system 
 
 **Certifications:**  
 **Certifications:**  
-- [CompTIA A+](https://www.your-certification-link.com](https://www.credly.com/badges/45fb4524-3b58-4c2a-90e9-679f68fda2e6/public_url)  
-- [CompTIA Network+](https://www.your-certification-link.com](https://www.credly.com/badges/166f8515-68f1-4dcc-9cd3-d1d51534ae8d/public_url)  
-- [CompTIA Security+](https://www.your-certification-link.com](https://www.credly.com/badges/f9a54913-b648-4370-9d1f-ec6dde6ad3a2/public_url)  
+- [CompTIA A+](https://www.credly.com/badges/45fb4524-3b58-4c2a-90e9-679f68fda2e6/public_url]  
+- [CompTIA Network+](https://www.credly.com/badges/166f8515-68f1-4dcc-9cd3-d1d51534ae8d/public_url]  
+- [CompTIA Security+](https://www.credly.com/badges/f9a54913-b648-4370-9d1f-ec6dde6ad3a2/public_url] 
 - ITIL4 Foundations
 
 ---
