@@ -1,87 +1,60 @@
-# Jesus Piceno - IT Professional
+# Jesus Piceno
 
-**Location:** Irvine, CA  
-**Email:** [jesuspicenoit7@gmail.com](mailto:jesuspicenoit7@gmail.com)  
-**Phone:** (714) 417-2612  
-**LinkedIn:** www.linkedin.com/in/jesuspicenoit  
+**Irvine, CA** | jesuspicenoit7@gmail.com | (714) 417-2612 | [LinkedIn]
 
----
+## SUMMARY OF QUALIFICATIONS
+Eager young IT professional with a strong background in desktop support, system administration, and cloud engineering. Skilled in scripting, automation, and cloud technology, with a strong commitment to continuous learning and process improvement. Committed to leveraging technical expertise, analytical problem-solving skills, and dedication to continuous learning, collaboration, and innovation.
 
-## 📄 Summary of Qualifications
+## EDUCATION & IT CERTIFICATIONS
+**Bachelor of Science in Cloud Computing** - Western Governors University *(Expected April 2026)*
+- Relevant Coursework: IT Applications, Network and Security Foundations, Scripting and Programming, Cloud Foundations, and Cryptography.  
+- Certifications: **CompTIA A+, Network+, Security+, ITIL4 Foundations**
 
-Eager young IT professional with a strong background in desktop support, system administration, and cloud engineering. Skilled in scripting, automation, and cloud technology, with a strong commitment to continuous learning and process improvement. Dedicated to leveraging technical expertise, analytical problem-solving skills, and innovation in all technical endeavors.
+### Technical Home Projects:
+#### **Home Lab for Splunk:**
+- Designed and configured advanced Splunk searches and reports for log analysis and system monitoring.
+- Created interactive dashboards, scheduled reports, and real-time alerts to enhance data visibility and security insights.
 
----
+#### **Home Lab for Intune:**
+- Cloud-joined and enrolled Windows devices into Intune using Hyper-V for virtual machine testing.
+- Onboarded Microsoft Defender for Endpoint (MDE) for active protection and endpoint security across Intune-managed devices.
+- Managed Intune enrollment policies, including automatic device enrollment, compliance policies, and security baselines.
+- Implemented remote security actions via Intune, including remote wipe, locate device, and lockdown options.
+- Deployed OneDrive for Business with optimized synchronization settings, ensuring secure cloud storage and policy-driven file access.
 
-## 🎓 Education & IT Certifications
+#### **GitHub Repository Projects:**
+- **AD Comparison Tool** – Automates Active Directory attribute comparisons of two user accounts to verify which user groups are missing.
+- **BitLocker Management Script** – Simplifies encryption deployment in the case that a host has multiple hard drives.
+- **BSOD Troubleshooting with WinDbg** – Streamlines crash analysis and debugging for Blue Screen of Death (BSOD) issues.
+- **Splunk Dashboard and Query Creation** – Custom-built visualization and log analysis in Splunk.
 
-**Bachelor of Science in Cloud Computing**  
-*Western Governors University (Expected April 2026)*  
-- Relevant Coursework: IT Applications, Network and Security Foundations, Scripting and Programming, Cloud Foundations.
-
-**Certifications:**  
-**Certifications:**  
-- [CompTIA A+](https://www.credly.com/badges/45fb4524-3b58-4c2a-90e9-679f68fda2e6/public_url) 
-- [CompTIA Network+](https://www.credly.com/badges/166f8515-68f1-4dcc-9cd3-d1d51534ae8d/public_url) 
-- [CompTIA Security+](https://www.credly.com/badges/f9a54913-b648-4370-9d1f-ec6dde6ad3a2/public_url)
-- ITIL4 Foundations
-
----
-
-## 🛠️ Technical Projects
-
-### **Home Lab for Splunk**
-- Created advanced searches and reports.
-- Designed and implemented dashboards.
-- Scheduled reports and alerts to enhance monitoring.
-
-### **Home Lab for Intune**
-- Designed and implemented policies to block USB device access across the tenant.
-- Conducted attack simulations to assess and improve security posture.
-- Configured user access policies to secure sensitive resources.
-- Enrolled devices into Microsoft Defender for advanced threat detection.
-- Set up Apple Push Certificates for iOS device MDM enrollment.
-
----
-
-## 💼 Work Experience
-
+## WORK EXPERIENCE
 ### **IT Endpoint Representative**  
-*SchoolsFirst Federal Credit Union, Tustin, CA (June 2023 – Present)*  
-- Provided expert-level support for Microsoft 365 environments, configuring and deploying workstations, laptops, network printers, and iOS devices.
-- Developed and deployed PowerShell and batch scripts using KACE to automate registry changes and application deployments across 100+ hosts.
-- Documented technical processes in ServiceNow, ensuring seamless communication of updates and procedures.
-- Utilized Splunk to analyze endpoint logs, troubleshoot BSODs, application crashes, and WER faults, improving system reliability.
-- Collaborated with vendors to establish best practices for software upgrades and vulnerability management.
-
----
+**SchoolsFirst Federal Credit Union, Tustin, CA** *(June 2023 – Present)*
+- Provided expert-level support for Microsoft 365 environment, configuring and deploying workstations, laptops, network printers, and iOS mobile devices for end users.
+- Developed and deployed PowerShell and batch scripts using **KACE**, automating registry changes and application deployments across 100+ hosts.
+- Documented technical processes using **ServiceNow**, ensuring clear communication of updates and procedures with Service Desk and IT Endpoint teams.
+- Utilized **SIEM tool Splunk** to analyze endpoint logs, troubleshoot **BSODs, application crashes, and Windows Error Reporting (WER) faults**, improving system reliability and reducing downtime.
+- Created a **Splunk query** to extract critical event IDs from application, system, and setup logs, categorizing them for streamlined troubleshooting, and shared findings with **Service Desk and Endpoint Operations teams**.
+- Collaborated with vendors to establish **best practices for software upgrades, vulnerability remediation, and troubleshooting complex software issues**.
+- Implemented and managed **device control policies in Microsoft Defender for Endpoint (MDE)**, configuring **granular access controls for USBs and removable media** using **Intune OMA-URIs and Advanced Hunting queries**. Coordinated deployment with the Endpoint Services Administrator team.
+- Configured **Microsoft Defender SmartScreen policies** in a **sandbox environment**, leveraging **Intune MDM and registry modifications** to enhance security against **phishing and malicious downloads**. Coordinated findings with **Endpoint Services and Information Security Operations teams** for enterprise-wide implementation.
+- Participated in **KACE training sessions** to deepen knowledge of **patch management best practices**, balancing security and operational continuity. Assisted Endpoint Services Administrator team in deploying **Windows OS patches via KACE**.
 
 ### **IT System Administrator**  
-*Astronics Test Systems, Irvine, CA (May 2021 – June 2023)*  
-- Deployed and maintained Active Directory on Windows Server 2012R2, optimizing user and computer management for 200+ employees.
-- Conducted onboarding/offboarding for 50+ employees, managing secure AD and Microsoft Exchange accounts.
-- Patched 150+ servers and workstations to ensure software stability and security.
-- Administered 802.1x port authentication and VLANs on HP PoE switches, improving network security.
-- Performed regular server backups using Microsoft DPM and managed offsite tape storage with Iron Mountain.
-
----
+**Astronics Test Systems, Irvine, CA** *(May 2021 – June 2023)*
+- Deployed and maintained **Active Directory** on **Windows Server 2012R2**, improving user and computer management efficiency for **200+ employees**.
+- Managed onboarding/offboarding for **50+ employees**, ensuring secure **AD and Microsoft Exchange** account management and workstation setups.
+- Ensured software and application security by patching **150+ servers and workstations**, mitigating vulnerabilities.
+- Administered **802.1x port authentication and VLANs** on **HP PoE switches**, strengthening network security and reducing unauthorized access incidents.
+- Conducted regular **server backups using Microsoft DPM**, ensuring **data integrity and offsite storage management with Iron Mountain**.
 
 ### **Cloud Support Engineer**  
-*Elevation Education Solutions LLC, Irvine, CA (Dec 2022 – June 2023)*  
-- Designed and implemented scalable infrastructure by creating AWS load balancers and configuring Auto Scaling for EC2 instances.
-- Established secure and efficient network architecture using VPCs, subnets, and route tables.
-- Documented SOPs, architecture diagrams, and technical specifications for knowledge sharing.
+**Elevation Education Solutions LLC, Irvine, CA** *(Dec 2022 – June 2023)*
+- Designed and implemented a **scalable AWS infrastructure** using **load balancers and Auto Scaling** for EC2 instances to handle increased traffic.
+- Configured **VPCs, subnets, and route tables** to establish a **secure and efficient network architecture**.
+- Documented **SOPs, architecture diagrams, and technical specifications** to ensure **consistent knowledge sharing and operational efficiency**.
 
 ---
 
-## 📫 Contact Me
-
-Feel free to reach out if you'd like to collaborate or learn more about my work:
-
-- **Email:** [jesuspicenoit7@gmail.com](mailto:jesuspicenoit7@gmail.com)  
-
----
-
-## ⚖️ License
-
-This repository is licensed under the [MIT License](LICENSE).
+This document serves as my professional portfolio, showcasing my expertise in **endpoint security, IT systems administration, cloud computing, scripting, and automation**.
